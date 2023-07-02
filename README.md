@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Projeto com React APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esse projeto foi criado para testar consumo de APIs
 
 ## Available Scripts
 
