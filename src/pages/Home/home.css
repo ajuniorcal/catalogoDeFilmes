@@ -39,6 +39,10 @@
   border-top-right-radius: 8px;
 }
 
+.lista-filmes {
+  margin-top: 60px;
+}
+
 .lista-filmes a {
   display: flex;
   align-items: center;
